@@ -1,0 +1,3 @@
+C:/Users/s25380173/Desktop/MySort/build/CMakeFiles/MySort.dir
+C:/Users/s25380173/Desktop/MySort/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/s25380173/Desktop/MySort/build/CMakeFiles/ZERO_CHECK.dir
